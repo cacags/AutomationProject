@@ -6,5 +6,6 @@ public class Polindrome {
             dummy = dummy + str.charAt(i);
         }
         System.out.println(dummy.trim());
+        System.out.println("another change");
     }
 }
