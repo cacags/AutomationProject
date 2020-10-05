@@ -1,3 +1,4 @@
 /.idea/
 /AutomationProject.iml
 /target/
+*.xml
